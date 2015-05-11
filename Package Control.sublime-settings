@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ColorPicker",
+		"DashDoc",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"RSpec",
+		"RubyTest",
+		"Scratch",
+		"SublimeERB",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}

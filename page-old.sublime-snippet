@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<% content_for :meta do %>
+<% end %>
+<h1>$1</h1>
+<table class="front" summary="For signed-in users">
+	<tr>
+  	<td class="main">
+  		$2
+  	</td>
+    <td class="sidebar round">
+    	$3
+    </td>
+  </tr>
+</table>
+]]></content>
+<tabTrigger>page-old</tabTrigger>
+</snippet>
