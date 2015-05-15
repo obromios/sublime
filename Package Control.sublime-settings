@@ -14,7 +14,7 @@
 		"RubyTest",
 		"Scratch",
 		"SublimeERB",
-		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Theme - Soda"
 	]
 }
