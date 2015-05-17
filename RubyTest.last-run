@@ -1,4 +1,4 @@
 {
-	"last_test_run": "rspec spec/requests/layout_links_spec.rb:183",
+	"last_test_run": "bundle exec spring rspec spec/models/pro_user_spec.rb:14",
 	"last_test_working_dir": "/Users/Chris/Documents/Sites/golf_mentor"
 }
