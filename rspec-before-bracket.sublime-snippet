@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+before(:each) {$1}
+]]></content>
+<tabTrigger>beforeb</tabTrigger>
+<scope>source.ruby.rspec</scope>
+</snippet>
