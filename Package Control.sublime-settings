@@ -13,8 +13,11 @@
 		"RSpec",
 		"RubyTest",
 		"Scratch",
+		"SCSS",
 		"SublimeERB",
+		"SublimeLinter",
 		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Theme - Soda"
 	]
 }

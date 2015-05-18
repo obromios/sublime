@@ -1,4 +1,4 @@
 {
-	"last_test_run": "bundle exec spring rspec spec/models/pro_user_spec.rb:14",
+	"last_test_run": "rspec spec/controllers/coupons_controller_spec.rb",
 	"last_test_working_dir": "/Users/Chris/Documents/Sites/golf_mentor"
 }
