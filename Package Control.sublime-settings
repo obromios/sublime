@@ -8,15 +8,16 @@
 		"ColorPicker",
 		"DashDoc",
 		"Emmet",
+		"Git",
 		"GitGutter",
 		"Package Control",
 		"RSpec",
+		"Ruby Hash Converter",
 		"RubyTest",
 		"Scratch",
 		"SCSS",
 		"SublimeERB",
 		"SublimeLinter",
-		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"Theme - Soda"
 	]
