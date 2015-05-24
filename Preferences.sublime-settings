@@ -8,5 +8,7 @@
 	],
 	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
-	"translate_tabs_to_spaces": false
+	"word_wrap": true,
+	"translate_tabs_to_spaces": false,
+	"spell_check": true,
 }

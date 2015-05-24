@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<%= $1 %>
+]]></content>
+<tabTrigger>erbe</tabTrigger>
+<scope>text.html</scope>
+</snippet>
