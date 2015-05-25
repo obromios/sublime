@@ -6,9 +6,9 @@
 	[
 		"Vintage"
 	],
+	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
-	"word_wrap": true,
 	"translate_tabs_to_spaces": false,
-	"spell_check": true,
+	"word_wrap": true
 }

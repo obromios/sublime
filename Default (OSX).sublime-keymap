@@ -4,5 +4,6 @@
         { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
       ]
     },
-    { "keys": ["alt+d"], "command": "goto_definition" }
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
 ]
