@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-Factory(:$1, user: $2)
+Factory(:$1, user: user)
 ]]></content>
-	<tabTrigger>factory</tabTrigger>
+	<tabTrigger>Factoryu</tabTrigger>
 	<scope>source.ruby.rspec</scope>
 </snippet>
