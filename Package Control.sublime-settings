@@ -14,6 +14,7 @@
 		"LaTeXTools",
 		"Markdown Preview",
 		"Package Control",
+		"Pretty JSON",
 		"RSpec",
 		"RuboCop",
 		"Ruby Hash Converter",
@@ -25,6 +26,7 @@
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
+		"Tag",
 		"Theme - Soda"
 	]
 }

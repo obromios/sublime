@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th><th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+]]></content>
+<tabTrigger>mtable</tabTrigger>
+<scope>text.html</scope>
+</snippet>

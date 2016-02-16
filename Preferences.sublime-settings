@@ -4,10 +4,11 @@
 		"classmark",
 		"Ericsson"
 	],
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": true,
 	"enable_tab_scrolling": false,
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -15,6 +16,6 @@
 	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
