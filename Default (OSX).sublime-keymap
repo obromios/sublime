@@ -5,5 +5,18 @@
       ]
     },
     { "keys": ["alt+d"], "command": "goto_definition" },
-    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} 
+  },
+// http://stackoverflow.com/questions/26089802/in-sublime-text-3-how-do-you-enable-emmet-for-jsx-files
+  { "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
+      [
+          { "operand": "source.js", "operator": "equal", "match_all": true, "key": "selector" },
+          { "match_all": true, "key": "selection_empty" },
+          { "operator": "equal", "operand": false, "match_all": true, "key": "has_next_field" },
+          { "operand": false, "operator": "equal", "match_all": true, "key": "auto_complete_visible" },
+          { "match_all": true, "key": "is_abbreviation" }
+      ]
+  },
+  { "keys": ["ctrl+]"], "command": "next_view" },
+  { "keys": ["ctrl+["], "command": "prev_view" }
 ]
