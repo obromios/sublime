@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect($1).not_to $2
+]]></content>
+<tabTrigger>expn</tabTrigger>
+<scope>source.ruby.rspec</scope>
+</snippet>

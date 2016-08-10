@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect($1).to $2
+]]></content>
+<tabTrigger>exp</tabTrigger>
+<scope>source.ruby.rspec</scope>
+</snippet>
